@@ -1,5 +1,5 @@
 """ 
-  quickselct algorithm described in  Introduction to Algorithm Sec9.2
+  quickselect algorithm described in  Introduction to Algorithm Sec9.2
   a: a given list
   k: k-th minimum number from the list a
   Liangyue Li
