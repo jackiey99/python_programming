@@ -2,7 +2,7 @@
   quickselect algorithm described in  Introduction to Algorithm Sec9.2
   a: a given list
   k: k-th minimum number from the list a
-  Liangyue Li
+  Liangyue Li (jackiey99@gmail.com)
 """
 
 def quickselect(a, k):
